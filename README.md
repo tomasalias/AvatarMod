@@ -37,7 +37,7 @@ If you are looking to join the team to create this mod, please contact with any 
 ways:
 * FavouriteDragon, the current manager of the Av2 project - reachable via [mail](mailto:ninjadragon008@icloud.com) or [on our Discord server](https://discord.gg/jPVMETb)
 * Mahtaran, the main developer of the Av2 project - reachable via [mail](mailto:mahtaran@amuzil.com) or [on our Discord server](https://discord.gg/jPVMETb)
-* Mist, the creator and owner of the ProjectKorra group - reachable via the (currently broken) application form at [projectkorra.com](http://projectkorra.com/join-the-team/)  
+* Mist, the creator and owner of the ProjectKorra group - reachable via the application from at [projectkorra.com](http://projectkorra.com/join-the-team/)  
 
 We will get back to you shortly.
 
