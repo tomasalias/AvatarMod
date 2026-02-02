@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "${mod_id}",
+  "version": "${version}",
+  "name": "${mod_name}",
+  "description": "Avatar Mod (Fabric 1.20.1 port - assets and entities/mobs)",
+  "authors": [
+    "CrowsOfWar"
+  ],
+  "contact": {
+    "homepage": "https://github.com/ProjectKorra/AvatarMod"
+  },
+  "license": "GPL-3.0-or-later",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.crowsofwar.avatar.AvatarMod"
+    ],
+    "client": [
+      "com.crowsofwar.avatar.client.AvatarModClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "fabric": "*",
+    "minecraft": "1.20.1"
+  }
+}
